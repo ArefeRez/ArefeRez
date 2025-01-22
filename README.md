@@ -3,9 +3,9 @@ Hi there 👋
 👋Im Arefeh Rezaei 
 
 About Me :
-💻Front-End Developer
-🌱Learning React
-🔗https://www.linkedin.com/in/arefehrezaei/
+ 💻Front-End Developer
+ 🌱Learning React
+ 🔗https://www.linkedin.com/in/arefehrezaei/
 
 🛠️ Languages and Tools :
 - ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
